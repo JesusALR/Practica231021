@@ -1,1 +1,2 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#!/bin/bash
+Yo creo que l verdad nos falto por ver mas que nada el tema de las conexiones con el github en los distintos casos que se puedieran dar. Una disculpa por subirlo tarde. Buenas noches
